@@ -12,7 +12,7 @@ A modern, responsive Product Store web application frontend built with **React**
 
 ## 🔗 Preview
 
-[Live Demo](#) <!-- Deployed app link here -->
+[Live Demo](https://product-store-seven-phi.vercel.app/) <!-- Deployed app link here -->
 
 ## 📸 Screenshots
 
