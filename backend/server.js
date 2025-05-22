@@ -18,7 +18,7 @@ const app = express();
 
 // CORS middleware (after app is initialized)
 app.use(cors({
-  origin: "https://frontend-eta-henna-74.vercel.app", // ✅ no trailing slash
+  origin: "https://product-store-seven-phi.vercel.app", // ✅ no trailing slash
   credentials: true, // Optional: If you’re using cookies/auth
 }));
 
